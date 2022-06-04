@@ -38,15 +38,7 @@
 <br />
 <br />
 
-<!-- ## Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=pseudo-bot&show_icon=true)
-
-<br />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-bot)
-
-<br /> -->
+\
 
 ## Connect with me:
 
