@@ -2,7 +2,7 @@
 
 ## About
 
-- _**Sophomore at Birla Institute of Technology, Mesra.**_
+- _**Sophomore at Indian Institute of Technology, Kharagpur.**_
 
 ## Tech Stack
 
