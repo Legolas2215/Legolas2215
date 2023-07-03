@@ -2,7 +2,7 @@
 
 ## About
 
-- _**Prefinal Year at Indian Institute of Technology, Kharagpur.**_
+- _**Pre-final Year at Indian Institute of Technology, Kharagpur.**_
 
 ## Tech Stack
 
